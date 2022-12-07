@@ -50,10 +50,17 @@ h1 {
     color: rgb(27, 27, 27);
 }
 
-div p {
-    text-align: center;
-    text-left: 200px;
-    right: 200px;
+p {
+    
     color: rgb(61, 61, 63);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+.linha{
+
+    padding-left: 100px;
+    padding-right: 100px;
+    text-align: center;
+    display: inline-block;
+    width: 100%;
+    }
+
